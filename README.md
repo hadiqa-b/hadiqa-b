@@ -33,7 +33,7 @@
 
 #### Projects
 
-| | |
+| Project | Description |
 |---|---|
 | **[hashiya](https://github.com/hadiqa-b/hashiya)** | A daily work log generated from your Jira tickets and local git repos by a local LLM, then corrected in `$EDITOR`. Every line is stored as survived, deleted, added, or reworded. Nothing leaves the machine. |
 | **[pwd-parameter-estimation](https://github.com/hadiqa-b/PWD-Parameter-Estimation)** | The R behind a published paper — Poisson Weibull distribution and stress-strength reliability analysis. |
